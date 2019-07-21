@@ -1,0 +1,10 @@
+ <section>
+    <div class="loader">
+        <div class="img all-center">
+            <img src="img/lo2.gif">
+        </div>
+    </div>
+</section>
+
+    <script src="js/loader.js"></script>
+    <script src="js/custom.js"></script>
